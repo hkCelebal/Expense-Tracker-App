@@ -110,7 +110,7 @@
     "Id": "ddc4c4fa-a378-4039-9dcc-a8d085d0ef55",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Expense Tracker App",
     "OriginatingVersion": "1.330",
     "ParserErrorCount": 0
