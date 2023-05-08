@@ -1,2 +1,11 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Align: =Align.Center
+        Fill: =RGBA(102, 182, 227, 1)
+        Height: =112
+        Size: =25
+        Text: ="Expense"
+        Width: =640
+        ZIndex: =1
+
