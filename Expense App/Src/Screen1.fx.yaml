@@ -2,6 +2,7 @@ Screen1 As screen:
 
     Label1 As label:
         Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
         Fill: =RGBA(102, 182, 227, 1)
         Height: =112
         Size: =25
